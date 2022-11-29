@@ -1,9 +1,9 @@
 package org.intentionality;
 
-public class Greeting{
+public class Greeting {
 
     @Override
-    public String toString(){
+    public String toString() {
         return "Hello World!";
     }
 }
