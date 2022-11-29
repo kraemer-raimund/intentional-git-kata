@@ -4,6 +4,6 @@ public class Greeting{
 
     @Override
     public String toString(){
-        return "Hello Wrold!";
+        return "Hello World!";
     }
 }
