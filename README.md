@@ -15,9 +15,9 @@ ____________
 - A local clone of this repository. Please check out the existing feature branch as well as `develop`.
   You can ignore the `main` branch for this exercise.
 
-**Before we begin:** *We assume that we have not yet pushed our local feature branch. If we had already pushed,
-we might handle it differently depending on the situation, which we will not cover here. In general,
-clean up before pushing, and rebase frequently.*
+**Before we begin:** *We assume that we have not yet pushed our local feature branch. If we had already pushed, we might
+handle it differently depending on the situation; in that case, make sure you understand the consequences
+and/or ask your Kata organizer or trainer. In general, clean up before pushing, and rebase frequently.*
 
 _____________
 
