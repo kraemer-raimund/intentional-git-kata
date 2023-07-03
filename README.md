@@ -121,3 +121,9 @@ and foresight.
 c) Refactor, then create another commit. Now a full "red-green-refactor" iteration is
 finished. Consider squashing the last 2 commits if the intermediate state before the
 refactoring step does not add any value on its own and is now obsolete as a "checkpoint".
+
+___
+
+© 2023 Raimund Krämer - Use with attribution.
+
+Links to third party sites are included for convenience only and I am not responsible for their contents.
